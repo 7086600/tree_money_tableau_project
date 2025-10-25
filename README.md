@@ -35,3 +35,7 @@ There are three [datasets](https://www.dropbox.com/scl/fi/f5yiwzkqeup24b36lcpxn/
 1. `tree-census-NYC_2015.csv` - NYC Tree Census
 2. `tree_species_nyc.csv` - NYC Native Trees dataset
 3. `income-NYC_2015.csv` - NYC Income data
+
+## Results
+
+The final visualizations and dashboards can be found on my [Tableau Public profile](https://public.tableau.com/views/TreeandMoney/TreesMoneyDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
