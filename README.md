@@ -3,6 +3,12 @@
 
 ### Author: Alexander K.
 
+<img src="tree_money_dashboard.png" 
+     alt="Tree_Money_Dashboard" 
+     width="700" 
+     height="350" 
+     style="display:block; margin:auto; border:2px solid #ccc; border-radius:4px;">
+
 ## Overview
 This project explores the connection between urban nature and social inequality in New York City. Using publicly available datasets on tree census and median income, we'll trying to investigate whether wealthier neighborhoods have more, healthier, or younger trees compared to lower-income areas.
 
